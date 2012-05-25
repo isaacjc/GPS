@@ -22,14 +22,14 @@
 		64CC94AE156F842900ACDC02 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		64CC94B0156F842900ACDC02 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		64CC94B2156F842900ACDC02 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		64CC94B6156F842900ACDC02 /* GPS-Info.plist */ = {isa = PBXFileReference; path = "GPS-Info.plist"; sourceTree = "<group>"; };
+		64CC94B6156F842900ACDC02 /* GPS-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GPS-Info.plist"; sourceTree = "<group>"; };
 		64CC94B8156F842900ACDC02 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		64CC94BA156F842900ACDC02 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		64CC94BC156F842900ACDC02 /* GPS-Prefix.pch */ = {isa = PBXFileReference; path = "GPS-Prefix.pch"; sourceTree = "<group>"; };
-		64CC94BD156F842900ACDC02 /* GPSAppDelegate.h */ = {isa = PBXFileReference; path = GPSAppDelegate.h; sourceTree = "<group>"; };
+		64CC94BC156F842900ACDC02 /* GPS-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GPS-Prefix.pch"; sourceTree = "<group>"; };
+		64CC94BD156F842900ACDC02 /* GPSAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GPSAppDelegate.h; sourceTree = "<group>"; };
 		64CC94BE156F842900ACDC02 /* GPSAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GPSAppDelegate.m; sourceTree = "<group>"; };
 		64CC94C1156F842A00ACDC02 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		64CC94C3156F842A00ACDC02 /* GPSViewController.h */ = {isa = PBXFileReference; path = GPSViewController.h; sourceTree = "<group>"; };
+		64CC94C3156F842A00ACDC02 /* GPSViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GPSViewController.h; sourceTree = "<group>"; };
 		64CC94C4156F842A00ACDC02 /* GPSViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GPSViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
